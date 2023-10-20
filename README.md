@@ -8,6 +8,7 @@ alchitry-au-docker-playground
 - [alchitry/alchitry-loader: Command line loader program for the Au and Cu](https://github.com/alchitry/alchitry-loader/tree/master)
 
 ### Documentation
+- [Verilog — Alchitry](https://alchitry.com/verilog)
 - [Tcl Initialization Scripts • Vivado Design Suite Tcl Command Reference Guide (UG835) • Reader • AMD Adaptive Computing Documentation Portal](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands/Tcl-Initialization-Scripts)
 - [create_project • Vivado Design Suite Tcl Command Reference Guide (UG835) • Reader • AMD Adaptive Computing Documentation Portal](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands/create_project)
 - [Creating a Configuration Memory File for SPI Dual Quad (x8) Devices (for FPGA Devices) • Vivado Design Suite User Guide: Programming and Debugging (UG908) • Reader • AMD Adaptive Computing Documentation Portal](https://docs.xilinx.com/r/en-US/ug908-vivado-programming-debugging/Creating-a-Configuration-Memory-File-for-SPI-Dual-Quad-x8-Devices-for-FPGA-Devices)
