@@ -4,6 +4,12 @@ alchitry-au-docker-playground
 - ```bash
   /opt/Xilinx/Vivado/2019.1/bin/vivado -mode batch -source <your_Tcl_script> # https://github.com/hdlguy/vivado_tcl/tree/master
   ```
+### Tools
+- [alchitry/alchitry-loader: Command line loader program for the Au and Cu](https://github.com/alchitry/alchitry-loader/tree/master)
+
+### Documentation
+- [Tcl Initialization Scripts • Vivado Design Suite Tcl Command Reference Guide (UG835) • Reader • AMD Adaptive Computing Documentation Portal](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands/Tcl-Initialization-Scripts)
+- [create_project • Vivado Design Suite Tcl Command Reference Guide (UG835) • Reader • AMD Adaptive Computing Documentation Portal](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands/create_project)
 
 ### Product
 - [**KIT-16497 SparkFun Electronics | Development Boards, Kits, Programmers | DigiKey**](https://www.digikey.hk/en/products/detail/sparkfun-electronics/KIT-16497/13158153)
