@@ -4,6 +4,9 @@ alchitry-au-docker-playground
 - ```bash
   /opt/Xilinx/Vivado/2019.1/bin/vivado -mode batch -source <your_Tcl_script> # https://github.com/hdlguy/vivado_tcl/tree/master
   ```
+- ```bash
+  /opt/Xilinx/Vivado/2019.1/bin/vivado -mode tcl
+  ```
 ### Tools
 - [alchitry/alchitry-loader: Command line loader program for the Au and Cu](https://github.com/alchitry/alchitry-loader/tree/master)
 
